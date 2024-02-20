@@ -1,0 +1,9 @@
+[package]
+name = "maciej_issue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fuel-abi-types = "0.3.0"
+fuels = "0.55.0"
+serde_json = "1.0.114"
